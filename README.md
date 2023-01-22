@@ -11,7 +11,7 @@ Prerequisites:
 
 Few of the APIs under Categories were automated:
 
-i) Retrieve categories (GET method)
+i) Retrieve list of categories (GET method)
 
 ii) Create a category (POST method)
 
