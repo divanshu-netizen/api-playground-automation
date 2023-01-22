@@ -12,8 +12,11 @@ Prerequisites:
 Few of the APIs under Categories were automated:
 
 i) Retrieve categories (GET method)
+
 ii) Create a category (POST method)
+
 iii) Delete a category (DELETE method)
+
 iv) Retrieve a single category, filtering Categories with single Category id ( GET method)
 
 
